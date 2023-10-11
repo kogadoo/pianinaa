@@ -1,0 +1,14 @@
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\Пианнноо\Пианнноо\bin\Debug\net6.0\Пианнноо.exe
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\Пианнноо\Пианнноо\bin\Debug\net6.0\Пианнноо.deps.json
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\Пианнноо\Пианнноо\bin\Debug\net6.0\Пианнноо.runtimeconfig.json
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\Пианнноо\Пианнноо\bin\Debug\net6.0\Пианнноо.dll
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\Пианнноо\Пианнноо\bin\Debug\net6.0\Пианнноо.pdb
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\Пианнноо\Пианнноо\obj\Debug\net6.0\Пианнноо.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\Пианнноо\Пианнноо\obj\Debug\net6.0\Пианнноо.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\Пианнноо\Пианнноо\obj\Debug\net6.0\Пианнноо.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\Пианнноо\Пианнноо\obj\Debug\net6.0\Пианнноо.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\Пианнноо\Пианнноо\obj\Debug\net6.0\Пианнноо.dll
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\Пианнноо\Пианнноо\obj\Debug\net6.0\refint\Пианнноо.dll
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\Пианнноо\Пианнноо\obj\Debug\net6.0\Пианнноо.pdb
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\Пианнноо\Пианнноо\obj\Debug\net6.0\Пианнноо.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\Пианнноо\Пианнноо\obj\Debug\net6.0\ref\Пианнноо.dll
